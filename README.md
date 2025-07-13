@@ -28,7 +28,7 @@ A simple, intuitive desktop application to manage and track personal expenses ef
 
 ---
 
-## Project Prerequisites
+## Project Prerequisites 
 
 * Java 8+
 * Maven 3.6+
