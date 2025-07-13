@@ -38,7 +38,7 @@ mvn test
 
 ## Sample Usage
 
-* The application allows the user to:
+The application allows the user to:
 * Enter a new expense with amount, category, and date.
 * View saved expenses in a tabular format.
 * Save and load data from expenses.ser.
