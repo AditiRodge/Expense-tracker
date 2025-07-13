@@ -42,7 +42,7 @@ mvn test
 * Enter a new expense with amount, category, and date.
 * View saved expenses in a tabular format.
 * Save and load data from expenses.ser.
-* 
+  
 ## ScreeenShot
 <img width="960" height="504" alt="286744317-2bcc529e-c70e-4f83-9473-4cb1152bdfa6" src="https://github.com/user-attachments/assets/232965da-abc3-430e-9985-2e8c5fb2f4c6" />
 
